@@ -1,0 +1,85 @@
+{
+  "AddressBook": [
+    {
+      "id": 1,
+      "firstname": "Ajinkya",
+      "lastname": "Patil",
+      "Address": "Ghatkopar",
+      "City": "Mumbai",
+      "Zip": "400 075",
+      "Phonenumber": "9702420754"
+    },
+    {
+      "id": 2,
+      "firstname": "Priyanka",
+      "lastname": "Ranade",
+      "Address": "Gokhalenagar",
+      "City": "Pune",
+      "Zip": "411 016",
+      "Phonenumber": "9702420888"
+    },
+    {
+      "id": 3,
+      "firstname": "Shubham",
+      "lastname": "Rane",
+      "Address": "Nashik",
+      "City": "Nashik",
+      "Zip": "423 016",
+      "Phonenumber": "9701540888"
+    },
+    {
+      "id": 4,
+      "firstname": "Komal",
+      "lastname": "Kale",
+      "Address": "Ahmdabad",
+      "City": "Gujarat",
+      "Zip": "511 016",
+      "Phonenumber": "97024145888"
+    },
+    {
+      "id": 5,
+      "firstname": "Priya",
+      "lastname": "Chavan",
+      "Address": "Kothrud",
+      "City": "Pune",
+      "Zip": "411 056",
+      "Phonenumber": "97125420888"
+    },
+    {
+      "firstname": "Sona",
+      "lastname": "karle",
+      "Address": "Kurla",
+      "City": "Mumbai",
+      "Zip": "400 066",
+      "Phonenumber": "8806184089",
+      "id": 6
+    },
+    {
+      "firstname": "Sona",
+      "lastname": "karle",
+      "Address": "Kurla",
+      "City": "Mumbai",
+      "Zip": "400 066",
+      "Phonenumber": "88061840",
+      "id": 7
+    },
+    {
+      "firstname": "Sona",
+      "lastname": "karle",
+      "Address": "Kurla",
+      "City": "Mumbai",
+      "Zip": "400 066",
+      "Phonenumber": "880618401",
+      "id": 8
+    },
+    {
+      "firstname": "Sona",
+      "lastname": "karle",
+      "Address": "Kurla",
+      "City": "Mumbai",
+      "Zip": "400 066",
+      "Phonenumber": "98061840",
+      "id": 9
+    }
+  ]
+}
