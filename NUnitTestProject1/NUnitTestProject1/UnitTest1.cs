@@ -90,20 +90,7 @@ namespace NUnitTestProject1
             Assert.AreEqual("Shinde", dataresponse.Phonenumber);
            
         }
-        /// <summary>
-        /// UC5:Delete the person details
-        /// </summary>
-        [Test]
-        public void GivenEmployeeID_OnDelete_shouldreturnsucessFulstatus()
-        {
-            RestRequest request = new RestRequest("/AddressBook/6", Method.DELETE);
-
-
-            IRestResponse response = client.Execute(request);
-            Assert.AreEqual(response.StatusCode, HttpStatusCode.OK);
-            
-
-        }
+        
         
 
     }
